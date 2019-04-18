@@ -1,0 +1,23 @@
+@charset "ISO-8859-1";
+
+h1{
+	color:red
+}
+.box{
+	border:5px solid black;
+	background-color:#4dff4d;
+	margin-top:20px;
+	margin-left:20px;
+	width:300px;
+	height:300px;
+	
+}
+.box input{
+	width:120px;
+	height:20px;
+	color:yellow;
+	background-color:black;
+}
+a{
+	color:green;
+}
